@@ -1,0 +1,25 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <trackList>
+    <track>
+      <location>http://videokeman.com/dload/flv2/08Apr09/Bryan_Adams_-_Please_Forgive_Me.vkm</location>
+      <title>Please Forgive Me</title>
+      <creator>WONGSALAM</creator>
+      <album>Bryan Adams</album>
+      <annotation>WONGSALAM</annotation>
+      <image>http://lh4.googleusercontent.com/-vaQQkA5KeE4/AAAAAAAAAAI/AAAAAAAADUo/_rjg07wmH1Q/s80-c/photo.jpg</image>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>http://videokeman.com/dload/flv5/110609/Bryan_AdamsxdashxHeaven.vkm</location>
+      <title>Heaven</title>
+      <creator>WONGSALAM</creator>
+      <album>Bryan Adams</album>
+      <annotation>WONGSALAM</annotation>
+      <image>http://lh4.googleusercontent.com/-vaQQkA5KeE4/AAAAAAAAAAI/AAAAAAAADUo/_rjg07wmH1Q/s80-c/ph</image>
+      <trackNum>2</trackNum>
+    </track>
+  </trackList>
+</playlist>
